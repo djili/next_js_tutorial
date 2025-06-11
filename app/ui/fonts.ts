@@ -1,4 +1,3 @@
-import { exportTraceState } from 'next/dist/trace'
 import { Inter } from 'next/font/google'
 import { Lusitana } from 'next/font/google'
 
